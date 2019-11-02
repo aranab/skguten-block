@@ -1,0 +1,7 @@
+{
+    "eslint.enable": true,
+    "blade.format.enable": false,
+    "jshint.enable": false,    
+    "jshint.lintHTML": false,
+    "phpcbf.standard": "WordPress", 
+}

@@ -1,0 +1,39 @@
+{
+  "name": "skguten-block",
+  "version": "1.0.0",
+  "description": "This is the code practising of plugin extension of WP block editor",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aranab/skguten-block.git"
+  },
+  "keywords": [
+    "wordpress",
+    "wordpress-plugin",
+    "gutenberg",
+    "gutenberg-blocks",
+    "gutenberg-plugin",
+    "gutenberg-editor",
+    "block-editor",
+    "node",
+    "webpack",
+    "babel",
+    "reactjs",
+    "redux"
+  ],
+  "author": "Md. Arafat Rahman Rana",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/aranab/skguten-block/issues"
+  },
+  "homepage": "https://github.com/aranab/skguten-block#readme",
+  "devDependencies": {
+    "@wordpress/scripts": "5.1.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.6.0"
+  }
+}

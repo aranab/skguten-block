@@ -1,0 +1,27 @@
+{
+    "parser":"babel-eslint",
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": 6,
+        "sourceType": "module"
+    },
+    "rules": {
+        "max-len": [
+            1, 
+            120, 
+            2, 
+            { 
+                "ignoreComments": true  
+            }
+        ],
+        "react/prop-types": 0,
+        "object-shorthand": 0,
+        "func-names": 0,
+        "space-before-function-paren": 0
+    },
+    "globals": {
+        "document": true
+    }
+}
