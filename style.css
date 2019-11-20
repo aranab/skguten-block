@@ -4,3 +4,8 @@
     border: 2px solid #c99;
     padding: 20px;
 }
+
+.rana-section-block {
+    height: 200px;
+    background-color: #c99;
+}

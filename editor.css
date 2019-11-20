@@ -8,3 +8,8 @@
 .plugin-sidebar-content {
     padding: 16px;
 }
+
+.rana-section-block {
+    height: 200px;
+    background-color: #c99;
+}
