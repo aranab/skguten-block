@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: Testing Blocks
+ * Plugin Name: Initial Blocks
  * Plugin URI:  http://skarafat.com/skguten/
  * Description: This is a plugin demonstrating how to register new blocks for the Gutenberg editor.
  * Version:     1.0.0

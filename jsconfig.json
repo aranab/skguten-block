@@ -1,0 +1,9 @@
+{
+	"exclude": [
+		"assets",
+		"build",
+		"build-module",
+		"node_modules",
+		"vendor"
+	]
+}

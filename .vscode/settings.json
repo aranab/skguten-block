@@ -3,5 +3,6 @@
     "blade.format.enable": false,
     "jshint.enable": false,    
     "jshint.lintHTML": false,
-    "phpcbf.standard": "WordPress", 
+    "phpcbf.standard": "WordPress",
+    "javascript.format.enable": false
 }
